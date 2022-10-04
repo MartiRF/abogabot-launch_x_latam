@@ -3,13 +3,13 @@ ToDo:
 
 [x] [Toma de requerimientos](#toma-de-requerimientos)
 
-[] [Crear buyer persona](#buyer)
+[x] [Crear buyer persona](#buyer)
 
-[] Publico Objetivo
+[] [Publico Objetivo](#publico-objetivo)
 
-[] Wireframe inicial UX
+[x] [Wireframe inicial UX](#wireframe-ux)
 
-[] Wireframe inicial UI
+[] [Wireframe inicial UI](#wireframe-ux)
 
 **Caso: Abogabot**
 Descripción:
@@ -37,3 +37,12 @@ Descripción:
 - movil first 
 - Azul Marino #252440 y blanco
 ## Buyer
+No tengo muy claro quienes usuarian el proyecto, supongo que gente que tinen problemas legales.
+
+![buyer](./img/buyer.png)
+
+## Publico Objetivo
+
+## Wireframe UX
+![wireframeInicial](./img/wiframeInicial.png)
+## Wireframe UI
